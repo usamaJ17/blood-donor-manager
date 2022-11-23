@@ -15,6 +15,8 @@ Then we have a separate management part built with Laravel. Users can log in wit
 
 The blood manager can search for a donor based on blood group and update only the last call and remarks field. In contrast, documentation is allowed to abb new donors or cases. Admin can edit any donor, any case, create a new user and check reports; reports are generated automatically.
 
+The front end design is based on [AdminLte](https://adminlte.io/) template.
+
 
 ## Installation
 
