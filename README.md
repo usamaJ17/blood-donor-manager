@@ -26,7 +26,6 @@ The blood manager can search for a donor based on blood group and update only th
 ### Steps to initialize the project:  
 1. **Copy Link:** https://github.com/usamaJ17/blood-donor-manager.git
 1. **Clone:** Within GitBash, use the command "git clone https://github.com/usamaJ17/blood-donor-manager.git"
-1. **Clone:** Within GitBash, use the command "git clone https://github.com/usamaJ17/blood-donor-manager.git"
 ### After Clone
 1. **Database:** Create your database.
 1. **Env:** Add a .env file and configure it accordingly.
